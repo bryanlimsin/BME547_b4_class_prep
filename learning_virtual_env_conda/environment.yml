@@ -1,0 +1,5 @@
+name: myvenv
+
+dependencies:
+  - numpy
+  - matplotlib
